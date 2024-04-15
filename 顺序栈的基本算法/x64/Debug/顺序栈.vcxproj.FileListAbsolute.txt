@@ -1,0 +1,2 @@
+C:\Users\31173\Desktop\c\顺序栈\x64\Debug\顺序栈.exe
+C:\Users\31173\Desktop\数据结构\顺序栈的基本算法\x64\Debug\顺序栈.exe

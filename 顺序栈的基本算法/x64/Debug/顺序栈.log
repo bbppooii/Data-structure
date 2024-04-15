@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\数据结构\顺序栈的基本算法\源.cpp(9,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(975,1): message : 参见“OVERFLOW”的前一个定义
+  顺序栈.vcxproj -> C:\Users\31173\Desktop\数据结构\顺序栈的基本算法\x64\Debug\顺序栈.exe

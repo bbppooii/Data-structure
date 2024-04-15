@@ -18,8 +18,6 @@ int IsEmpty(LinkStack top) {
 int Push(LinkStack top, ElementType element) {
     LinkStack temp;
     temp = (LinkStack)malloc(sizeof(StackNode));
-    if (temp == NULL)
-        return FALSE;
     temp->data = element;
     temp->next = top->next;
     top->next = temp;
