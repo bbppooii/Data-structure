@@ -1,0 +1,4 @@
+﻿  y.cpp
+C:\Users\31173\Desktop\测试\实现通讯录（顺序表版本）\y.cpp(19,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SLDataType”
+C:\Users\31173\Desktop\测试\实现通讯录（顺序表版本）\y.cpp(91,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SLDataType”
+  实现通讯录（顺序表版本）.vcxproj -> C:\Users\31173\Desktop\测试\实现通讯录（顺序表版本）\x64\Debug\实现通讯录（顺序表版本）.exe
