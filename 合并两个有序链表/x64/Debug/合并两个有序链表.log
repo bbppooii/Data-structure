@@ -1,0 +1,26 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(4,18): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(7,18): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(13,19): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(15,13): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(15,23): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(16,25): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(20,17): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(21,24): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(23,18): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(26,25): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(30,17): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(31,24): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(33,18): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(37,9): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(40,9): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\合并两个有序链表\源.cpp(2,16): message : 参见“ListNode”的声明
