@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\链表的中间节点\源.cpp(6,20): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\链表的中间节点\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\链表的中间节点\源.cpp(7,16): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\链表的中间节点\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\链表的中间节点\源.cpp(8,16): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\链表的中间节点\源.cpp(2,16): message : 参见“ListNode”的声明
