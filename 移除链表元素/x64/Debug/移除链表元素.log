@@ -1,0 +1,22 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\移除链表元素\源.cpp(5,26): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\移除链表元素\源.cpp(6,20): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\移除链表元素\源.cpp(6,28): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\移除链表元素\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\移除链表元素\源.cpp(7,16): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\移除链表元素\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\移除链表元素\源.cpp(9,19): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\移除链表元素\源.cpp(11,13): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\移除链表元素\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\移除链表元素\源.cpp(12,21): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\移除链表元素\源.cpp(12,29): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\移除链表元素\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\移除链表元素\源.cpp(13,13): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\移除链表元素\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\移除链表元素\源.cpp(13,25): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\移除链表元素\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\移除链表元素\源.cpp(14,13): error C3861: “free”: 找不到标识符
+C:\Users\31173\Desktop\移除链表元素\源.cpp(15,17): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\移除链表元素\源.cpp(2,16): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\移除链表元素\源.cpp(17,15): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\移除链表元素\源.cpp(2,16): message : 参见“ListNode”的声明
