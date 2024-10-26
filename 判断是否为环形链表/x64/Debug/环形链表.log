@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\环形链表\源.cpp(4,20): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\环形链表\源.cpp(2,22): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\环形链表\源.cpp(5,16): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\环形链表\源.cpp(2,22): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\环形链表\源.cpp(6,16): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\环形链表\源.cpp(2,22): message : 参见“ListNode”的声明
