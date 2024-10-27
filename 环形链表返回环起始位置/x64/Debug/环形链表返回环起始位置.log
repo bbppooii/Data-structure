@@ -1,0 +1,12 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\环形链表返回环起始位置\源.cpp(4,20): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\环形链表返回环起始位置\源.cpp(2,8): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\环形链表返回环起始位置\源.cpp(5,16): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\环形链表返回环起始位置\源.cpp(2,8): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\环形链表返回环起始位置\源.cpp(6,16): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\环形链表返回环起始位置\源.cpp(2,8): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\环形链表返回环起始位置\源.cpp(10,24): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\环形链表返回环起始位置\源.cpp(2,8): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\环形链表返回环起始位置\源.cpp(11,24): error C2027: 使用了未定义类型“ListNode”
+C:\Users\31173\Desktop\环形链表返回环起始位置\源.cpp(2,8): message : 参见“ListNode”的声明
+C:\Users\31173\Desktop\环形链表返回环起始位置\源.cpp(16,12): error C2065: “NULL”: 未声明的标识符
