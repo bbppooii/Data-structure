@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\判断括号是否匹配\源.cpp(12,15): error C3861: “strlen”: 找不到标识符
+C:\Users\31173\Desktop\判断括号是否匹配\源.cpp(16,19): error C2131: 表达式的计算结果不是常数
+C:\Users\31173\Desktop\判断括号是否匹配\源.cpp(16,15): message : 因读取超过生命周期的变量而失败
+C:\Users\31173\Desktop\判断括号是否匹配\源.cpp(16,15): message : 请参见“len”的用法
+C:\Users\31173\Desktop\判断括号是否匹配\源.cpp(27,26): error C3863: 不可指定数组类型“int [len+1]”
