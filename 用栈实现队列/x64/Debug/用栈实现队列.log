@@ -1,0 +1,21 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(11,2): error C3861: “assert”: 找不到标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(13,10): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(20,2): error C3861: “assert”: 找不到标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(22,2): error C3861: “free”: 找不到标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(23,10): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(31,2): error C3861: “assert”: 找不到标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(37,34): error C3861: “realloc”: 找不到标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(38,14): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(40,4): error C3861: “perror”: 找不到标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(54,2): error C3861: “assert”: 找不到标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(55,10): error C3861: “STEmpty”: 找不到标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(55,2): error C3861: “assert”: 找不到标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(61,2): error C3861: “assert”: 找不到标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(62,10): error C3861: “STEmpty”: 找不到标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(62,2): error C3861: “assert”: 找不到标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(69,2): error C3861: “assert”: 找不到标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(76,2): error C3861: “assert”: 找不到标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(93,17): error C3861: “malloc”: 找不到标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(104,14): error C3861: “myQueuePeek”: 找不到标识符
+C:\Users\31173\Desktop\用栈实现队列\源.cpp(127,2): error C3861: “free”: 找不到标识符
