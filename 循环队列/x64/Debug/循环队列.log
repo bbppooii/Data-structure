@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\循环队列\源.cpp(11,46): error C3861: “malloc”: 找不到标识符
+C:\Users\31173\Desktop\循环队列\源.cpp(12,14): error C3861: “malloc”: 找不到标识符
+C:\Users\31173\Desktop\循环队列\源.cpp(61,5): error C3861: “free”: 找不到标识符
+C:\Users\31173\Desktop\循环队列\源.cpp(62,5): error C3861: “free”: 找不到标识符
