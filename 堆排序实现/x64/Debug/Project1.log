@@ -1,0 +1,4 @@
+﻿D:\vs\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Heap.c
+C:\Users\31173\Desktop\112-issues-master\24年-03月06日--二叉树-堆\Heap.c(60,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\31173\Desktop\堆排序实现\x64\Debug\堆排序实现.exe
