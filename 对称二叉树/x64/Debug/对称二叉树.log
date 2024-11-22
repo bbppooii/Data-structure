@@ -1,0 +1,30 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\对称二叉树\源.cpp(3,14): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\对称二叉树\源.cpp(3,27): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\对称二叉树\源.cpp(6,14): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\对称二叉树\源.cpp(6,27): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\对称二叉树\源.cpp(9,9): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\对称二叉树\源.cpp(2,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\对称二叉树\源.cpp(9,19): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\对称二叉树\源.cpp(2,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\对称二叉树\源.cpp(12,23): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\对称二叉树\源.cpp(2,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\对称二叉树\源.cpp(12,32): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\对称二叉树\源.cpp(2,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\对称二叉树\源.cpp(12,12): error C2660: “isSameTree”: 函数不接受 1 个参数
+C:\Users\31173\Desktop\对称二叉树\源.cpp(2,6): message : 参见“isSameTree”的声明
+C:\Users\31173\Desktop\对称二叉树\源.cpp(12,12): message : 尝试匹配参数列表“()”时
+C:\Users\31173\Desktop\对称二叉树\源.cpp(12,56): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\对称二叉树\源.cpp(2,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\对称二叉树\源.cpp(12,66): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\对称二叉树\源.cpp(2,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\对称二叉树\源.cpp(12,45): error C2660: “isSameTree”: 函数不接受 1 个参数
+C:\Users\31173\Desktop\对称二叉树\源.cpp(2,6): message : 参见“isSameTree”的声明
+C:\Users\31173\Desktop\对称二叉树\源.cpp(12,45): message : 尝试匹配参数列表“()”时
+C:\Users\31173\Desktop\对称二叉树\源.cpp(15,23): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\对称二叉树\源.cpp(2,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\对称二叉树\源.cpp(15,35): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\对称二叉树\源.cpp(2,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\对称二叉树\源.cpp(15,12): error C2660: “isSameTree”: 函数不接受 1 个参数
+C:\Users\31173\Desktop\对称二叉树\源.cpp(2,6): message : 参见“isSameTree”的声明
+C:\Users\31173\Desktop\对称二叉树\源.cpp(15,12): message : 尝试匹配参数列表“()”时
