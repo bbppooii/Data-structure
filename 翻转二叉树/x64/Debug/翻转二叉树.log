@@ -1,0 +1,14 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\翻转二叉树\源.cpp(11,17): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\翻转二叉树\源.cpp(14,29): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\翻转二叉树\源.cpp(10,18): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\翻转二叉树\源.cpp(15,5): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\翻转二叉树\源.cpp(10,18): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\翻转二叉树\源.cpp(15,18): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\翻转二叉树\源.cpp(10,18): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\翻转二叉树\源.cpp(16,5): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\翻转二叉树\源.cpp(10,18): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\翻转二叉树\源.cpp(17,10): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\翻转二叉树\源.cpp(10,18): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\翻转二叉树\源.cpp(18,10): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\翻转二叉树\源.cpp(10,18): message : 参见“TreeNode”的声明
