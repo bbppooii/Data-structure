@@ -1,0 +1,32 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(11,14): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(11,27): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(14,14): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(14,27): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(17,9): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(10,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(17,19): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(10,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(20,23): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(10,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(20,32): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(10,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(20,12): error C2660: “isSameTree”: 函数不接受 1 个参数
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(10,6): message : 参见“isSameTree”的声明
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(20,12): message : 尝试匹配参数列表“()”时
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(20,55): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(10,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(20,65): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(10,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(20,44): error C2660: “isSameTree”: 函数不接受 1 个参数
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(10,6): message : 参见“isSameTree”的声明
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(20,44): message : 尝试匹配参数列表“()”时
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(23,17): error C2065: “NULL”: 未声明的标识符
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(26,9): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(10,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(26,22): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(10,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(30,22): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(10,24): message : 参见“TreeNode”的声明
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(30,56): error C2027: 使用了未定义类型“TreeNode”
+C:\Users\31173\Desktop\另一颗树的子树\源.cpp(10,24): message : 参见“TreeNode”的声明
